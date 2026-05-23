@@ -1,0 +1,23 @@
+# Compiled Java files
+*.class
+
+# Large data files (regenerate using CustomerDataGenerator.java)
+*.csv
+*.log
+
+# Hadoop archives
+*.tar.gz
+*.tar
+
+# Hive metastore
+metastore_db/
+derby.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
