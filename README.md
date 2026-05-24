@@ -53,3 +53,4 @@ hive -f queries.hql
 - Mumbai had most fraud cases (15,214)
 - Senior age group (45+) had highest transactions (5,32,984)
 - Laptop was most used device (2,50,832)
+-add the project file
