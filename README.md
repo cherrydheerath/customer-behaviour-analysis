@@ -1,11 +1,5 @@
 # 🔍 Customer Behaviour Analysis
-> Big Data Analytics Project | BITE411L | VIT Vellore | Winter 2025-26
-
-**Submitted by:**
-- Dheerath — 23BIT0167
-- Sai Krishna Teja — 23BIT0034
-
-**Guide:** Dr. Mohana Priya, Associate Professor, SCORE, VIT Vellore
+> Big Data Analytics Project 
 
 ## 📌 Overview
 Analyzed 1,000,000 synthetic customer transaction records using Hadoop ecosystem to uncover behaviour patterns and detect fraud.
